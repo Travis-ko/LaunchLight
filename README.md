@@ -48,6 +48,8 @@ concurrently run server and client with
 
 head to [localhost:3000](http://localhost:3000/) to start scrolling through the worlds upcoming launches
 
+![LaunchLight](https://github.com/Travis-ko/LaunchLight/blob/master/docs/DemoRecording.gif "Sample Session.")
+
 ## Built With
 
 * [ReactJS](https://reactjs.org/) - The frontend library used
